@@ -1,0 +1,1 @@
+web: gunicorn pharmative.wsgi --log-file -
